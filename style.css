@@ -1,0 +1,52 @@
+th{
+    text-align: center;
+    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: large;
+}
+
+td{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding: 30px;
+    text-align: center;
+}
+
+table{
+    border: 2px solid black;
+    border-spacing: 10px;
+    border-spacing: 0;
+}
+
+table th{
+    border-style: solid;
+    border-width: 1px 0;
+    border-color: white;
+}
+
+.grey{
+    background-color: rgb(179, 179, 179);
+}
+
+.blue{
+    background-color: rgb(84, 117, 209);
+}
+
+.green{
+    background-color: rgb(122, 212, 122);
+}
+
+.yellow{
+    background-color: rgb(248, 248, 10);
+}
+
+.red{
+    background-color: rgb(255, 57, 57);
+}
+
+
+img{
+    height: 30px;
+    width: 30px;
+}
